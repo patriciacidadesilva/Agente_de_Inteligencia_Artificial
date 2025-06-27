@@ -104,7 +104,7 @@ No console do seu droplet, execute o seguinte comando:
 
 ```bash
 curl -sSL https://dokploy.com/install.sh | sh
-
+------------------------------------------------
 
 
 
