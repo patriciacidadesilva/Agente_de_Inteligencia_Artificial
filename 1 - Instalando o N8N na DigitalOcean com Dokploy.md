@@ -100,11 +100,8 @@ Após 'Concluir' o cadastro no link da Etapa anterior com o desconto, clique em:
 
 ## 4️⃣ Comando de instalação do Dokploy
 
-No console do seu droplet, execute o seguinte comando:
+No console do seu droplet, execute o seguinte comando: curl -sSL https://dokploy.com/install.sh | sh
 
-------------------------------------------------
-curl -sSL https://dokploy.com/install.sh | sh
-------------------------------------------------
 
 
 
