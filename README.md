@@ -1,5 +1,3 @@
-%md
-
 # AGENTE DE INTELIGÊNCIA ARTIFICIAL 
 
 # 💡 1° O que é um Agente de Inteligência Artificial? 
