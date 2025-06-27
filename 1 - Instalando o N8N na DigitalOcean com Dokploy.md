@@ -102,7 +102,7 @@ Após 'Concluir' o cadastro no link da Etapa anterior com o desconto, clique em:
 
 No console do seu droplet, execute o seguinte comando:
 
-```bash
+------------------------------------------------
 curl -sSL https://dokploy.com/install.sh | sh
 ------------------------------------------------
 
